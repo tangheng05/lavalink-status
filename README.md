@@ -32,7 +32,7 @@ This repository contains a custom Lavalink REST API server and a web interface t
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/HenGPlayZ/lavalink-status
+   git clone https://github.com/tangheng05/lavalink-status
    cd lavalink-status
    ```
 
@@ -66,6 +66,6 @@ Contributions are welcome! Feel free to submit a pull request or open an issue t
 This project is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for more details.
 ---
 
-<p align="center">Made with ❤️ by HenGPlayZ (Draxler)</p>
+<p align="center">Made with ❤️ by tangheng05 (Draxler)</p>
 
 ---
